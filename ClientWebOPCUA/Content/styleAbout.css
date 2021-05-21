@@ -1,0 +1,15 @@
+﻿.LV {
+    text-align: center;
+    color: green;
+    font-size: 30px;
+    position: absolute;
+    top: 120px;
+    left: 600px;
+}
+h2 {
+    text-align: center;
+    color: #35e673;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 50px;
+}
